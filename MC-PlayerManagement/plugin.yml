@@ -1,0 +1,28 @@
+main: com.elderrealm.main.ElderRealmBans
+version: 2.0
+name: PlayerManagement
+author: Tricks
+
+commands:
+  ban:
+    description: Permanently bans a player
+  unban:
+    description: Unbans a player
+  kick:
+    description: Kicks a player
+  mute:
+    description: Mutes a playe
+  unmute:
+    description: Unmutes a player
+  staffmenu:
+    description: Opens the staff menu
+  warn:
+    description: Warn a player with a reason on
+  clearwarns:
+    description: Clear a players warns
+  tempban:
+    description: tempban a player
+  freeze:
+    description: freeze a player
+  time:
+    description: freeze a player
